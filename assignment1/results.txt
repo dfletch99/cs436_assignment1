@@ -1,0 +1,15 @@
+D1
+H1 NP train	1.0
+H1 NP valid	0.972
+H1 NP test	0.963
+H2 NP train	1.0
+H2 NP valid	0.973
+H2 NP test	0.965
+
+D2
+H1 NP train	0.998
+H1 NP valid	0.763
+H1 NP test	0.727
+H2 NP train	0.998
+H2 NP valid	0.745
+H2 NP test	0.727
