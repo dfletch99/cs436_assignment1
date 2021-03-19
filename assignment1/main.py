@@ -291,7 +291,7 @@ def printAcc(trainAcc, valAcc, testAcc, roundoff=3):
     print("Test :" + str(round(testAcc, roundoff)))
 
 def usage():
-    print("USAGE: " + sys.argv[0] + " {training-file} {validation-file} {test-file} {print?} {heurisitc}")
+    print("USAGE: " + sys.argv[0] + " {training-file} {validation-file} {test-file} {print?} {heuristic}")
     print("{print?} should be \"yes\" or \"no\"")
     print("{heuristic} should be \"0\" for entropy or \"1\" for variance impurity")
     exit(1)
